@@ -1,0 +1,17 @@
+{
+  "name": "006-datastore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.5.2",
+    "restify": "^6.3.4",
+    "sequelize": "^4.36.1"
+  }
+}
